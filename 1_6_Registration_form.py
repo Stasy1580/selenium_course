@@ -3,7 +3,7 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 import time 
 
-link = "http://suninjuly.github.io/registration1.html"
+link = "http://suninjuly.github.io/registration2.html"
 
 try:
     browser = webdriver.Chrome()
